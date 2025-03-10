@@ -1,6 +1,6 @@
 variable "ami" {
   type = string
-  description = "Instance Image"
+  description = "Instance Image ID"
 }
 
 variable "instance_type_prod" {
